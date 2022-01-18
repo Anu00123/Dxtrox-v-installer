@@ -26,5 +26,5 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/terror-boy/Dxtrox-v-installer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Anu00123/Dxtrox-v-installer?organization=Anu00123&organization=Anu00123/github.com/terror-boy/Dxtrox-v-installer)
      </div>
